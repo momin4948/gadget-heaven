@@ -1,0 +1,167 @@
+[
+    {
+      "product_id": "1",
+      "product_title": "iPhone 14",
+      "product_image": "https://i.ibb.co.com/D4BHH4x/i-Phone-14.jpg",
+      "category": "Phone",
+      "price": 575.69,
+      "description": "The latest iPhone with A15 Bionic chip, Super Retina XDR display, and 5G support.",
+      "Specification": ["128GB storage", "6.1-inch display", "Dual-camera system", "Face ID"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "2",
+      "product_title": "Samsung Galaxy S23",
+      "product_image": "https://i.ibb.co.com/DCX9KtR/Samsung-Galaxy-S23.jpg",
+      "category": "Phone",
+      "price": 729.99,
+      "description": "Samsung Galaxy S23 with dynamic AMOLED display and high-resolution camera.",
+      "Specification": ["128GB storage", "6.2-inch AMOLED display", "Triple-camera system"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "3",
+      "product_title": "Google Pixel 7",
+      "product_image": "https://i.ibb.co.com/MNgPVnM/Pixel-7.jpg",
+      "category": "Phone",
+      "price": 534.99,
+      "description": "Google Pixel 7 with Google Tensor processor and advanced camera.",
+      "Specification": ["128GB storage", "6.3-inch OLED display", "50MP main camera"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "4",
+      "product_title": "OnePlus 11",
+      "product_image": "https://i.ibb.co.com/Vx2SmqQ/One-Plus-11.jpg",
+      "category": "Phone",
+      "price": 219.99,
+      "description": "OnePlus 11 with Fluid AMOLED display and ultra-fast charging.",
+      "Specification": ["256GB storage", "6.7-inch AMOLED display", "50MP camera", "Snapdragon 8 Gen 2"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "5",
+      "product_title": "Sony Xperia 5 IV",
+      "product_image": "https://i.ibb.co.com/CtkgPrB/Sony-Xperia-5-IV.jpg",
+      "category": "Phone",
+      "price": 359.99,
+      "description": "Sony Xperia 5 IV with advanced photography features and OLED display.",
+      "Specification": ["128GB storage", "6.1-inch OLED display", "Triple-camera system"],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": "6",
+      "product_title": "Xiaomi Mi 13",
+      "product_image": "https://i.ibb.co.com/Lvqw0gp/Mi-13.jpg",
+      "category": "Phone",
+      "price": 99.99,
+      "description": "Xiaomi Mi 13 with high-resolution display and powerful performance.",
+      "Specification": ["128GB storage", "6.5-inch LCD display", "Quad-camera system"],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "7",
+      "product_title": "MacBook Pro 16-inch",
+      "product_image": "https://i.ibb.co.com/Vg0Vnjr/Mac-Book-Pro-16-inch.jpg",
+      "category": "Macbook",
+      "price": 2499.99,
+      "description": "Powerful 16-inch MacBook Pro with M2 chip and Liquid Retina XDR display.",
+      "Specification": ["M2 chip", "16GB RAM", "512GB SSD", "16-inch Retina display"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "8",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/3m3txWQ/Dell-XPS-13.jpg",
+      "category": "Laptop",
+      "price": 1399.99,
+      "description": "Compact and powerful laptop with Intel Core i7 processor and InfinityEdge display.",
+      "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13.3-inch display"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "9",
+      "product_title": "Microsoft Surface Laptop Studio",
+      "product_image": "https://i.ibb.co.com/G2px4tJ/Microsoft-Surface-Laptop-Studio.jpg",
+      "category": "Laptop",
+      "price": 1799.99,
+      "description": "Versatile laptop with touchscreen and detachable screen for creative tasks.",
+      "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "14.4-inch display"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "10",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/JpCKFtH/HP-Spectre-x360.webp",
+      "category": "Laptop",
+      "price": 1579.99,
+      "description": "Convertible laptop with touch display and long battery life.",
+      "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13.3-inch touch display"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "11",
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://i.ibb.co.com/yY5xmQZ/Apple-Watch-Series-8.jpg",
+      "category": "Wearable",
+      "price": 429.99,
+      "description": "Apple Watch with health monitoring, GPS, and water resistance.",
+      "Specification": ["GPS", "Water resistant", "Blood oxygen sensor", "Heart rate monitor"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "12",
+      "product_title": "Samsung Galaxy Watch 5",
+      "product_image": "https://i.ibb.co.com/7WKQCGc/Samsung-Galaxy-Watch-5.jpg",
+      "category": "Wearable",
+      "price": 299.99,
+      "description": "Samsung smartwatch with fitness tracking and health monitoring features.",
+      "Specification": ["GPS", "Heart rate monitor", "Sleep tracking", "5ATM water resistance"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "13",
+      "product_title": "Fitbit Charge 5",
+      "product_image": "https://i.ibb.co.com/1RxH8Tq/Fitbit-Charge-5.jpg",
+      "category": "Wearable",
+      "price": 179.99,
+      "description": "Advanced fitness and health tracker with GPS, heart rate, and stress management.",
+      "Specification": ["GPS", "Heart rate monitor", "Stress management", "Swimproof"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "14",
+      "product_title": "Garmin Forerunner 955",
+      "product_image": "https://i.ibb.co.com/kxDCnZH/Garmin-Forerunner-955.webp",
+      "category": "Wearable",
+      "price": 499.99,
+      "description": "Garmin GPS watch for athletes with advanced metrics and training plans.",
+      "Specification": ["GPS", "VO2 max", "PacePro technology", "Water resistant"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "15",
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://i.ibb.co.com/cv0vL46/Sony-WH-1000-XM5.jpg",
+      "category": "Wearable",
+      "price": 349.99,
+      "description": "High-quality noise-canceling headphones with long battery life.",
+      "Specification": ["Noise canceling", "Bluetooth", "30 hours battery", "Quick charge"],
+      "availability": true,
+      "rating": 4.8
+    }
+  ]

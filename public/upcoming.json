@@ -1,0 +1,53 @@
+[
+    {
+      "product_id": "1",
+      "product_title": "PlayStation 5",
+      "product_image": "https://i.ibb.co.com/qJYvGxt/ps5.jpg",
+      "category": "Gaming Console",
+      "price": "TBA",
+      "description": "Sony's latest console with high-speed SSD, ray tracing, and a custom processor for smooth 4K gaming experiences.",
+      "Specification": [
+        "Ultra-high-speed SSD",
+        "Ray tracing",
+        "4K-TV gaming",
+        "Tempest 3D AudioTech",
+        "Backwards compatibility"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "2",
+      "product_title": "Apple Vision Pro",
+      "product_image": "https://i.ibb.co.com/R4RtPRX/Apple-Vision-Pro.jpg",
+      "category": "Wearable",
+      "price": "TBA",
+      "description": "Apple's augmented reality headset, blending the digital world with the real for an immersive AR experience.",
+      "Specification": [
+        "Dual 4K micro-OLED displays",
+        "Spatial Audio",
+        "Apple M-series chips",
+        "Eye tracking and gesture controls",
+        "Integration with Apple devices"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "3",
+      "product_title": "Tesla Phone Pi",
+      "product_image": "https://i.ibb.co.com/kgsTVzJ/Tesla-Phone-Pi.png",
+      "category": "Phone",
+      "price": "TBA",
+      "description": "Tesla's smartphone with unique features, optimized for integration with Tesla products and services.",
+      "Specification": [
+        "Satellite connectivity",
+        "Solar charging",
+        "AI-driven camera",
+        "Optimized for Tesla cars",
+        "Neuralink integration"
+      ],
+      "availability": false,
+      "rating": 4.6
+    }
+]
